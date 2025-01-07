@@ -1,0 +1,11 @@
+{
+  "author" : "patman",
+  "description" : "removes the respawning cinematic",
+  "friendlyName" : "no respawn cinematic",
+  "link" : "steam://url/CommunityFilePage/3402430099",
+  "name" : "pat_norespawncinematic",
+  "steamContentId" : "3402430099",
+  "steamDescription" : "skips the respawn cinematic\nbecause i got tired of having my screen go black and needing to press esc every time i killed myself while testing mods that are supposed to kill you\n\nbleh\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/no-respawn-cinematic",
+  "tags" : "Miscellaneous",
+  "version" : "1.0"
+}
