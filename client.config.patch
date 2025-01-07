@@ -1,0 +1,3 @@
+[
+  { "op": "replace", "path": "/respawnCinematic", "value": "/pat_norespawn.cinematic" }
+]
