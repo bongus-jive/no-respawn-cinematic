@@ -1,7 +1,7 @@
 {
   "muteSfx": false,
   "muteMusic": false,
-  "supressInput": false,
+  "suppressInput": false,
   "backgroundColor": [ 0, 0, 0, 0 ],
   "panels": [ ],
   "audio": [ ]
